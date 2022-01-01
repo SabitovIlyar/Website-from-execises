@@ -57,15 +57,17 @@ p{
   position: absolute;
   right: 20%;
 }
-@media (max-width: 1028px) {
-  #title .container-fluid {
-    text-align: center;
-  }  
-  .title-image {
+@media (max-width:1028px) {
+  .title-image{
     position: static;
     transform: rotate(0);
   }
+  #title .container-fluid{
+    text-align: center;
+  }  
 }
+
+
 /* Features section */
 #features{
   position: relative;
@@ -121,4 +123,3 @@ p{
   margin: 10px;
   line-height: 3;
 }
-
