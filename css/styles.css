@@ -69,6 +69,9 @@ p{
   #title .container-fluid{
     text-align: center;
   }  
+  .carousel-item{
+    font-size: 2rem;
+  }
 }
 
 
