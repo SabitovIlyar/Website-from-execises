@@ -58,7 +58,7 @@ p{
   right: 20%;
 }
 @media (max-width: 1028px) {
-  #title {
+  #title .container-fluid {
     text-align: center;
   }  
   .title-image {
